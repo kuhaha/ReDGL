@@ -1,2 +1,2 @@
-# ReDGL: Regrex-base Data Generation Language
+# ReDGL: Regrex-based Data Generation Language
 
